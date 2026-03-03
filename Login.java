@@ -6,6 +6,6 @@ public class Login {
 
 	@Test
 	public  void login() {
-		System.out.println("Login Test Failed");
+		System.out.println("Login Test 2 Failed");
 	}
 }
